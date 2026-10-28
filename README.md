@@ -23,7 +23,6 @@ B.Sc. Computer Science (GPA 86). M.Sc. in progress, on the thesis track.
 |---|---|---|
 | [robot-tls-padding-oracle](https://github.com/BenyHanonove/robot-tls-padding-oracle) | 3 services on Docker Compose running a parallel Bleichenbacher (ROBOT) attack on TLS 1.2 in a lab network | Go · goroutines · Docker |
 | [pqc-gpu-side-channels](https://github.com/BenyHanonove/pqc-gpu-side-channels) | M.Sc. thesis groundwork: side-channel leakage of post-quantum crypto (ML-KEM) on GPUs | research · Python |
-| [cpp-under-the-hood](https://github.com/BenyHanonove/cpp-under-the-hood) | 15 hands-on C++20 missions on memory, concurrency and what the compiler does | C++20 · sanitizers |
 
 The client work is in private repos. I'm happy to walk through the architecture and code in an interview.
 
