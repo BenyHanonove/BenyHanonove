@@ -11,7 +11,7 @@ TypeScript platforms on AWS. The biggest one is a real-time operations platform 
 - ✅ **Tests:** integration suites run against a live dev stage and gate every production deploy
 - 🎟️ Before that: NestJS + PostgreSQL REST/WebSocket endpoints for live seat availability and checkout at a ticketing startup, deployed on AWS ECS
 
-B.Sc. Computer Science (GPA 86). M.Sc. in progress, on the thesis track.
+B.Sc. Computer Science . M.Sc. in progress, on the thesis track.
 
 ### Stack
 `TypeScript` · `Node.js` · `NestJS` · `Express` · `Go` · `Python` · `SQL`
