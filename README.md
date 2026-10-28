@@ -21,10 +21,11 @@ B.Sc. Computer Science . M.Sc. in progress, on the thesis track.
 ### Public work
 | Project | What it is | Stack |
 |---|---|---|
+| [kick-showcase](https://github.com/BenyHanonove/kick-showcase) | Real-time serverless operations platform for bars & event venues (2 paying customers): ~130 Lambdas, DynamoDB Streams → EventBridge Pipes → WebSockets, optimistic locking, versioned Redis cache | TypeScript · AWS Serverless · SST · Vue 3 |
 | [robot-tls-padding-oracle](https://github.com/BenyHanonove/robot-tls-padding-oracle) | 3 services on Docker Compose running a parallel Bleichenbacher (ROBOT) attack on TLS 1.2 in a lab network | Go · goroutines · Docker |
 | [pqc-gpu-side-channels](https://github.com/BenyHanonove/pqc-gpu-side-channels) | M.Sc. thesis groundwork: side-channel leakage of post-quantum crypto (ML-KEM) on GPUs | research · Python |
 | [earthquake-network-analysts](https://github.com/BenyHanonove/earthquake-network-analysts) | Graph-theoretic analysis of 1995–2023 global earthquakes with NetworkX: centrality and community detection surface the Ring of Fire | Python · NetworkX |
 
-The client work is in private repos. I'm happy to walk through the architecture and code in an interview.
+Other client work is in private repos. I'm happy to walk through the architecture and code in an interview.
 
 📫 [benyhanonove@gmail.com](mailto:benyhanonove@gmail.com) · [LinkedIn](https://www.linkedin.com/in/beny-hanonove-9b1902220)
