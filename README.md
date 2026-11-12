@@ -23,6 +23,7 @@ B.Sc. Computer Science . M.Sc. in progress, on the thesis track.
 |---|---|---|
 | [kick-showcase](https://github.com/BenyHanonove/kick-showcase) | Real-time serverless operations platform for bars & event venues (2 paying customers): ~130 Lambdas, DynamoDB Streams → EventBridge Pipes → WebSockets, optimistic locking, versioned Redis cache | TypeScript · AWS Serverless · SST · Vue 3 |
 | [robot-tls-padding-oracle](https://github.com/BenyHanonove/robot-tls-padding-oracle) | 3 services on Docker Compose running a parallel Bleichenbacher (ROBOT) attack on TLS 1.2 in a lab network | Go · goroutines · Docker |
+| [ShardKey](https://github.com/BenyHanonove/ShardKey) | Air-gapped bootable Linux image that generates a 256-bit secret, splits it with Shamir's Secret Sharing (k-of-n) and writes one verified share per USB drive. Hand-configured kernel with no networking and no modules, Secure Boot signed, secrets wiped from RAM before power-off | C · Linux kernel · BusyBox · musl · QEMU |
 | [pqc-gpu-side-channels](https://github.com/BenyHanonove/pqc-gpu-side-channels) | M.Sc. thesis groundwork: side-channel leakage of post-quantum crypto (ML-KEM) on GPUs | research · Python |
 | [earthquake-network-analysts](https://github.com/BenyHanonove/earthquake-network-analysts) | Graph-theoretic analysis of 1995–2023 global earthquakes with NetworkX: centrality and community detection surface the Ring of Fire | Python · NetworkX |
 
